@@ -23,6 +23,8 @@ A simple and efficient Notes application built with React, implementing CRUD ope
 - **React Hot Toast**: Toast notifications for success/error messages.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 
+## Live Link
+https://bytenotes-chi.vercel.app/
 ## Images
 ## Home Page
 
